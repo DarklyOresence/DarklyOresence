@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DarklyOresence
 - 👀 I’m interested in Among Us
-- 🌱 I’m currently learning Among Us
-- 💞️ I’m looking to collaborate on Fortnite
-- 📫 How to reach me DarklyOresence#4624
+- 📫 How to reach me eIijah#7500
 
 <!---
 DarklyOresence/DarklyOresence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
