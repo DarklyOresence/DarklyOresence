@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarklyOresence
-- 👀 I’m interested in Among Us
-- 📫 How to reach me eIijah#7500
+- 👀 I’m interested in Fortnite
+- 📫 How to reach me elijah#9820
 
 <!---
 DarklyOresence/DarklyOresence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
